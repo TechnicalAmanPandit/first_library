@@ -1,4 +1,4 @@
-# first_library
+# Simple Toast
 
 Step 1. Add the JitPack repository to your build file
 
