@@ -18,6 +18,6 @@ Step 1. Add the JitPack repository to your build file
   
   Step 3. code
    
-    First_library.Toasty(context, "Enter your toast massege");
+    First_library.Toasty(context, "Enter your toast message");
   
   
