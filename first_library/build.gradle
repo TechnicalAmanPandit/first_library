@@ -50,9 +50,9 @@ afterEvaluate {
         publications {
             release(MavenPublication) {
                 from components.release
-                groupId = 'com.github.technicalamanpandit'
+               /* groupId = 'com.github.technicalamanpandit'
                 artifactId = 'first_library'
-                version = '1.6'
+                version = '1.7'*/
             }
         }
     }
