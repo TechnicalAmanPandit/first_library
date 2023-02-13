@@ -48,12 +48,11 @@ dependencies {
 afterEvaluate {
     publishing {
         publications {
-// Creates a Maven publication called "release".
             release(MavenPublication) {
                 from components.release
                 groupId = 'com.github.technicalamanpandit'
-                artifactId = 'first-library'
-                version = '1.0.4'
+                artifactId = 'first_library'
+                version = '1.6'
             }
         }
     }
