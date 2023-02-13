@@ -52,8 +52,8 @@ afterEvaluate {
             release(MavenPublication) {
                 from components.release
                 groupId = 'com.github.technicalamanpandit'
-                artifactId = 'First_library'
-                version = '1.0.3'
+                artifactId = 'first_library'
+                version = '1.0.4'
             }
         }
     }
